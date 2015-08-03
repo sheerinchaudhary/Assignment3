@@ -1,0 +1,105 @@
+My name is Sheerin Chaudhary.
+This program will compute three integers.
+It will show the sum and product of three different combinations of two integer.
+It will also determine how many negative values are in the three integers.
+If you want to continue with the program, after processing the three integers  type y or else type n to end.
+Type in three integers
+-40 -13 -6
+ The original integers are -40 -13 -6
+3 of these numbers are negative
+for -40 and -13:    their sum is -53,    their product is 520
+for -13 and -6:    their sum is -19,    their product is 78
+for -6 and -40:    their sum is -46,    their product is 240
+Type y to continue, n to stop>
+y
+
+
+Type in three integers
+-4 -22 -11
+ The original integers are -4 -22 -11
+3 of these numbers are negative
+for -4 and -22:    their sum is -26,    their product is 88
+for -22 and -11:    their sum is -33,    their product is 242
+for -11 and -4:    their sum is -15,    their product is 44
+Type y to continue, n to stop>
+y
+
+
+Type in three integers
+0 -31 -9
+ The original integers are 0 -31 -9
+2 of these numbers are negative
+for 0 and -31:    their sum is -31,    their product is 0
+for -31 and -9:    their sum is -40,    their product is 279
+for -9 and 0:    their sum is -9,    their product is 0
+Type y to continue, n to stop>
+y
+
+
+Type in three integers
+-66 15 -8 
+ The original integers are -66 15 -8
+2 of these numbers are negative
+for -66 and 15:    their sum is -51,    their product is -990
+for 15 and -8:    their sum is 7,    their product is -120
+for -8 and -66:    their sum is -74,    their product is 528
+Type y to continue, n to stop>
+y
+
+
+Type in three integers
+-4 11 16
+ The original integers are -4 11 16
+1 of these numbers are negative
+for -4 and 11:    their sum is 7,    their product is -44
+for 11 and 16:    their sum is 27,    their product is 176
+for 16 and -4:    their sum is 12,    their product is -64
+Type y to continue, n to stop>
+y
+
+
+Type in three integers
+0 -5 0
+ The original integers are 0 -5 0
+1 of these numbers are negative
+for 0 and -5:    their sum is -5,    their product is 0
+for -5 and 0:    their sum is -5,    their product is 0
+for 0 and 0:    their sum is 0,    their product is 0
+Type y to continue, n to stop>
+y
+
+
+Type in three integers
+12 14 17
+ The original integers are 12 14 17
+0 of these numbers are negative
+for 12 and 14:    their sum is 26,    their product is 168
+for 14 and 17:    their sum is 31,    their product is 238
+for 17 and 12:    their sum is 29,    their product is 204
+Type y to continue, n to stop>
+y
+
+
+Type in three integers
+0 23 26
+ The original integers are 0 23 26
+0 of these numbers are negative
+for 0 and 23:    their sum is 23,    their product is 0
+for 23 and 26:    their sum is 49,    their product is 598
+for 26 and 0:    their sum is 26,    their product is 0
+Type y to continue, n to stop>
+y
+
+
+Type in three integers
+1 4 13
+ The original integers are 1 4 13
+0 of these numbers are negative
+for 1 and 4:    their sum is 5,    their product is 4
+for 4 and 13:    their sum is 17,    their product is 52
+for 13 and 1:    their sum is 14,    their product is 13
+Type y to continue, n to stop>
+n
+
+
+The total sets of three data values are 9
